@@ -3,12 +3,9 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-
 }
 
-div {
-    width: 100vw;
-}
+
 
 .header {
     margin-top: 20px;
